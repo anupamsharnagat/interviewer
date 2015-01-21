@@ -1,0 +1,1 @@
+daemon daemons server servers client openbsd unix-like freebsd clients ftp protocol solaris kernel daemon user-space filesystem firewall unix launchd sftp sunos emulator authentication login linux bot rfcs cups dns bsd operating os irix postfix client do-nothing browser workstations protocols socks ftp unix urls bind kernels gnu irc webdav ported nfs nis

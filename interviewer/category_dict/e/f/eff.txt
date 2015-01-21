@@ -1,0 +1,1 @@
+eff erfc cov erf lcm cn sgn prob tf mu sn sinc dn tanh gf sech diag adj cov argmax arctan cin proj ext rms tri tr obs avg wh dr eo fine-structure ord tr logit ker vac sym pr grav rel sp mf sos nm lim x-sampa inf eq pf

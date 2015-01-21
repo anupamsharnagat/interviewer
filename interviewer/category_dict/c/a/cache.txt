@@ -1,0 +1,1 @@
+cache ram caches 32mb 64mb 2mb 256mb 128mb 4mb on-chip 16mb expandable scsi memory 1gb 512kb disk cacheing 1mb cpus cpu floppy 8mb cache scsi-2 2gb slots ethernet controller storage 256kb graphics 32-bit 64-bit 386sx 400mb flash processor supersparc 20mb 25mhz controllers video configured 40mb processors dram mips configuration rom input-output

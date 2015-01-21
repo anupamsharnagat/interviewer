@@ -1,0 +1,1 @@
+slots slot cards connector pci card motherboard agp motherboards connectors pcie chipsets socket modules adapters lanes sockets usb bus pcmcia backplane ram compactflash memory adapter dimm controller bandwidth chipset isa sli mmc pins grooves mb sd interface compactpci ports bits sdio slot cards scsi bytes rom peripherals chip heathrow vesa interfaces

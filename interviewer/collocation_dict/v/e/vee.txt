@@ -1,0 +1,1 @@
+vee lor neg rightarrow equiv wedge oplus rightarrow leq geq cdot qquad circ cdots leftarrow lbrace vdash neq otimes leftrightarrow lesssim forall langle rangle infty uparrow leftrightarrow ln ge cosh pmod xor supset overline subsetneq nabla phi lim x-sampa iff displaystyle vert ddot quad a-b mathbf pm mapsto sup lnot ker

@@ -1,0 +1,1 @@
+erf erfc cov sinc eff sech lcm diag cn dr dn adj sn sgn cov tanh arctan arccot pf argmax tf cin tr tr arg pred ker tri proj arcsin avg pbso eo ext pr rel logit rms ord div tressure vac probit sym vartheta grav valign obs mno var stft

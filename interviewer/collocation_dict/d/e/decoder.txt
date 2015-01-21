@@ -1,0 +1,1 @@
+decoder encoder decoders decoding encoding dolby surround codec codecs audio wavpack playback libavcodec freeware dts jpeg encoder truehd he-aac mpeg bitstream realaudio bitrate dbx dsp lossless lpcm set-top receiver demodulator kbit formats vorbis iix decode encoded lossless coding subcarrier adapter floating-point lame decoder aac format sequencer ffmpeg digital audio ird aotuv

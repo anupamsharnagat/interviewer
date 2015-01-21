@@ -1,0 +1,1 @@
+megabytes gigabytes terabytes kb kilobytes megabyte mib kib kibibytes gib megabits kb mb megahertz dram ram gigabits gigabyte gb bytes reu kilobits kbit writable kilohertz eeprom read-write kilovolts simms kilobyte kilowatts asc megawatts hdd vram accessing unformatted kickstart non-volatile on-die mbit rambus rom rewritable mbit paging heatsink megabit read-only dimm millimeters

@@ -1,0 +1,1 @@
+ord lcm gcd func ker eval cov sgn cov diag erfc tf erf xor adj eff argmax rel bigl pred cn lim fg tanh ordinis logit sinc gf obs sn dn eq inf int dorlandspre prob dm def conjugacy tr kt bmod dist ddot lor val proj var bigoplus pf eq

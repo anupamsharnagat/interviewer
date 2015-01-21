@@ -1,0 +1,1 @@
+floppy disk disks floppy dvd-rom double-sided usb cd-rom single-sided scsi ram double-density floppies diskette rom kb mb drives kb zip formatted mfm cd-r cd-rw diskettes magneto-optical cassette esdi dos dvd-r flash ata hdd ms-dos sata drive read-only bootable gb ide storage built-in hard disk qic blu-ray iomega memory joystick cache tape

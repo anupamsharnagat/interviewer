@@ -1,0 +1,1 @@
+kernel linux kernels os freebsd operating filesystem solaris dos bsd unix ms-dos microkernel hardware kernel unix unix-like executable netbsd openbsd software windows distributions beos gnu gui gpl nt api kde boot browser compatibility compiler server userland aix xp emulator cpu rtos firmware bios qemu netware interface gentoo ported developers rom multitasking

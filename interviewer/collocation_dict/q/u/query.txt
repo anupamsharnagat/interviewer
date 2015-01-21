@@ -1,0 +1,1 @@
+query queries sql database query databases relational xml querying xquery select linq xslt schemas search schema rdf data indexing requests declarative dbms http xpath email recursive metadata server datalog retrieval e-mail mysql syntax transaction markup request lookup postgresql odbc jdbc reply servers packet sparql macro manipulation ldap keyword etl keywords filemaker

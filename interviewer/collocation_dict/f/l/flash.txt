@@ -1,0 +1,1 @@
+flash flash ram eeprom rom memory nand sram floppy dram flashes disk usb eprom mb flashing storage scsi cd-rom read-only kb gb non-volatile led shutter disks built-in chips compactflash dvd-rom removable drives camera chip solid-state cameras random-access cache hid bios sdram mib flooding fluorescent autofocus cpu controller metering nor magneto-optical optical

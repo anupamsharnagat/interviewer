@@ -1,0 +1,1 @@
+expandable upgradeable mib simm upgradable kib megabyte addressable expandable eeprom ram vram rom kb dram kb cache mb cache eprom nvram mb non-volatile dimm kilobyte extendable addressable sdram read-only sram gigabyte kibibytes dvd-rom extensible kickstart bios compactflash flash floppy built-in rambus writable slots nand soldered spacehab xms gib dongle nonvolatile bytes

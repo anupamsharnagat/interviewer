@@ -1,0 +1,1 @@
+floppy cd-rom 120mb disk disks 1gb scsi floppy 525mb ram 360k 40mb 400mb ide 2gb scsi-2 magnetic removable 100mb 2mb 200mb cache 80mb disk hard wide-brimmed 424mb hd optical 520mb 4mb caching 500mb compact megabyte rll disknet 20mb rom dat worm files ethernet 3dmenu 64mb mb install directory cd-i diskette 16mb

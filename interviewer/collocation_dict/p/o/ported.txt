@@ -1,0 +1,1 @@
+ported macintosh sega ms-dos atari dreamcast dos playstation os freebsd consoles solaris linux xbox amiga unix pc bsd powerpc console nintendo playstation snes gamecube windows compatible aix nes unix famicom wii platforms unix-like bundled mac nt pcs openvms computers netware ibm microsoft zx beos irix dec xp openbsd commodore hp-ux porting

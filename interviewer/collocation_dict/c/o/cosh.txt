@@ -1,0 +1,1 @@
+cosh sinh tanh pmod arctan arccos arcsin ln cos neq arccot geq lesssim overline otimes leq infty qquad nabla leftarrow langle ddot vec sech x-a sqrt cdots varepsilon infin lfloor x-x vee sgn equiv bigg rangle ell forall rho phi n-m pi lim pm b-a displaystyle cdot stackrel hbar frac varphi

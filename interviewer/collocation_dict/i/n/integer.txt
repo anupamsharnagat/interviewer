@@ -1,0 +1,1 @@
+integer integers polynomial coefficients int floating-point q rational finite k sum vector arithmetic scalar binary primes boolean polynomials byte digit ell decimal lambda fractional nonzero mathbf cdot infty quadratic leq discrete odd matrix fixed-point ln pi zero algebraic modulo arbitrary digits p integer non-integer b non-negative cdots sqrt f numeric langle

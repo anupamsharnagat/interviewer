@@ -1,0 +1,1 @@
+transputer transputer dual-core sparc vliw sempron netburst mips xscale ramdac opteron power itanium celeron pipelined blackfin dual-core xeon eight-bit superh phenom powerpc single-core superscalar risc phonics presler turion isas mmx out-of-order penryn cyrix cisc multicore tron athlon zilog avr epic vax winchip pa-risc nios pentium hypervisor genx mvc arm vulcain joey

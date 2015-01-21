@@ -1,0 +1,1 @@
+parser parsers parsing yacc grammars parse context-free parser antlr lookahead lalr lr sax compiler yaml dom xml interpreter syntax grammar slr cfg context-sensitive json cyk scanner algorithm javascript recursion yacc decidable analyzer top-down ocaml html markup glr php nonterminal namespaces code dtd parsing scripting xhtml perl recursive simple schema predicate compilers

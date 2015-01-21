@@ -1,0 +1,1 @@
+server servers client server protocol clients browser http user protocols database web ftp application desktop interface e-mail software users file linux hardware applications ip client tcp windows proxy os unix smtp authentication internet files email microsoft processor dns requests router web computers daemon rfc implementations java computer interfaces ldap ssh databases

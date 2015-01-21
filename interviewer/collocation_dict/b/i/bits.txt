@@ -1,0 +1,1 @@
+bits bytes bit digits byte digit integer registers input integers checksum pixels octets register values encoded binary instructions packets pixel encoding address decimal mantissa data packet signals kb variables codewords frames memory header arithmetic cpu sequence signal ram bandwidth inputs encode symbols kb hexadecimal pointer message mb pieces operand significand pins

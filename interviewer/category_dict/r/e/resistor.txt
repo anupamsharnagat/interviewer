@@ -1,0 +1,1 @@
+resistor capacitor resistors resistor inductor r2 vr1 capacitors capacitance r1 ic2 0v c5 zener voltage r4 transistor w3 freewheeling impedance c2 resistances attenuator coil transistors diode voltages amplifier monostable 9v ns reactance loudspeaker diodes divider 5v attenuation r25 tr1 iron-containing tr2 lagged c3 windings c1 d1 ic1 re-charge ethernet saturation ic3

@@ -1,0 +1,1 @@
+pixels pixel palette resolution megapixels sprites xga dots polygons colors bits screen lcd vga subpixels rgb crt ccd cga monochrome palettes refresh bytes svga tft screens texels monitor graphics rectangles leds hz ntsc display wavelengths interlaced backlit dithering monitors vertices displays foveon scan gamut sensor rows voxels squares projectors color dpi

@@ -1,0 +1,1 @@
+lossy lossless lossy lossless atrac wma tta wmv vorbis aac lzw jpeg xvid speex wav ogg flac divx mpeg gzip png wavpack theora codec codecs uncompressed avc deflate dct compression hdv lzma realaudio adpcm gif realvideo mjpeg quicktime codecs audio zlib bitrate tiff svcd aiff wavelet lpcm pcm raster ffmpeg dv

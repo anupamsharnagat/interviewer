@@ -1,0 +1,1 @@
+schema schemas relax schema dtd xml gml markup dtds schematron syntax namespaces schemata xlink querying ng relational sgml winfs specification metadata cim query extensible xsd validation xslt sql databases interfaces xml-based database rdf schemas linq xsl dbms xhtml mof formats markup document parser namespace axiom opendocument pdb iec yaml html xmlbeans

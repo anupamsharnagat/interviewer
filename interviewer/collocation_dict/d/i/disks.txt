@@ -1,0 +1,1 @@
+disks disk discs drives floppy disc scsi floppies drive ram usb computers cd-rom dos diskettes kb mb peripherals formatted ms-dos storage rom disk tapes partitions files double-sided double-density dvd-r diskette cassettes formats kb ata gb cds format mfm sata cache hfs flash controller memory single-sided tape bytes interfaces cylinders prodos filesystem

@@ -1,0 +1,1 @@
+iff rightarrow forall equiv leq leftrightarrow rightarrow langle lnot geq neg cdot qquad mapsto oplus leftarrow quad lor vdash vee otimes rangle sim scriptstyle mathbf q longleftrightarrow vec cdots ldots cos lesssim neq ln lim ge displaystyle wedge epsilon j overline sqrt leftrightarrow ell theta tilde xor sup ker modulo lbrace

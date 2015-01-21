@@ -1,0 +1,1 @@
+pixel pixels vertex pixel rgb shader resolution grayscale ccd graphics texel shaders monochrome byte vga sensor backlit raster high-resolution lcd screen bits gpu vertex directx shading bitmap bytes texture tft cmos bit chroma widescreen frame two-dimensional brightness color greyscale foveon sample inch luma luminance geforce spatial crt image cmyk integer ntsc

@@ -1,0 +1,1 @@
+widget toolkit gtk wxwidgets qt widgets widget toolkits gui widgets motif wrapper cross-platform trolltech kde windowing graphical apis swt fltk desktop awt gnome libraries tk api front-end dashboard os browser javascript scripting pango user-interface gadgets unix-like frontend frameworks application opengl cocoa interface uiq gis ogre gimp glut lgpl ide ides point-and-click

@@ -1,0 +1,1 @@
+disk disks ram memory scsi floppy disc storage drive 1gb ide cd-rom graphics files drives file processor tape cpu 64mb program 16mb spinelets cache 4mb software disk data hard ethernet directory computer 32mb controller database server input-output raid format scsi-2 printer discs 8mb screen adaptor 2gb interface slots windows vga expandable

@@ -1,0 +1,1 @@
+def foo ker sgn ord lcm avg forall bsd-style abc cout equiv lor baz neq geq erfc bac erf val rms void opl select len div longleftrightarrow eff iff int rightarrow var zz cdr leftarrow foreach leq ext uninterruptible xor vac lesssim sup vee δh where displaystyle lim singleton alter object-relational

@@ -1,0 +1,1 @@
+memory ram rom disk cpu memory cache dram storage memories mb flash hardware processor bandwidth kb sdram chip sram chips data file bytes graphics floppy eeprom address register controller devices mib registers usb eprom motherboard instruction modules cpus flash processors kb cognitive kib bios processing files device cards interface disks instructions

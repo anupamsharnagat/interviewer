@@ -1,0 +1,1 @@
+telnet sftp telnet smtp telnet ftp vnc ssh nfs ssh socks ftp ifolder rsync webdav ssl mapi smb https cifs tftp whois chat scp imap ntp nntp edonkey http jabber irc dhcp teredo xmpp kolab daap tls tcp bittorrent email webmail gopher fish tacacs groupware silc ipx vpn teamspeak inetd messaging

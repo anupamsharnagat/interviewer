@@ -1,0 +1,1 @@
+decoders decoder decoding codecs libavcodec iix truehd xvid secam surround preamplifiers dv codec pal ntsc vcr receivers aac dolby encoder formats encoding fairplay vorbis atrac encoders betacam ogg dts dtv dvrs audio mpeg sbr sdds wma playback vlc ffmpeg multiplexers atsc s-video encoded adaptors signals transcode circuitry tuners analog timers interlace

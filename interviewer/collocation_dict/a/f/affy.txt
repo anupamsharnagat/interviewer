@@ -1,0 +1,1 @@
+affy limma bioconductor bioconductor gcrma affy lasergene epiinfo rma randomforest dnastar sigmastat pmonly emboss phylip staden bioperl ncss mathematica jmp phylip spss s-plus smac minitab pajek statistica open-source genespring bioperl consed sigmaplot freeware stata bioedit amber arlequin nti stata clustalx statsoft statview paml gcrma sas rma hmmer epi-info mega matlab gepas

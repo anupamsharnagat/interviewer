@@ -1,0 +1,1 @@
+proxy proxy http proxies ftp server nat dhcp servers dns client ssh smtp firewall caching e-mail tcp router browser radius sip authentication email telnet ldap browsers web ssl squid cache teredo protocol vpn socks ip user https messaging voip protocols desktop whois ntp firewalls client webdav requests encrypted clients web password

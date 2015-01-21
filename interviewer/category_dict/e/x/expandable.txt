@@ -1,0 +1,1 @@
+expandable 128mb 256mb 100mb 32mb 512mb 64mb 400mb 80mb 2mb ram 40mb simms 500mb 2gb 4mb 525mb 1gb 200mb 16mb 520mb 8mb cpus cache t805 cpu simms dram co-processor slots scalable 424mb 386dx 20mb caption memory 120mb disk 426mb configured 386sx mflops cacheing expanded drams random-access 36mhz mesh multi-threaded caching multi-vendor

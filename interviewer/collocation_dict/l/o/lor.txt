@@ -1,0 +1,1 @@
+lor lnot vee equiv neg vdash rightarrow leftrightarrow rightarrow forall leftrightarrow cdot circ pmod geq xor oplus qquad leq rangle neq otimes cdots overline langle cos wedge ln lesssim ge phi leftarrow lbrace nabla infty q n-k mapsto mathbf cosh iff quad scriptstyle bmod psi overset sqrt coprime vert ell rho

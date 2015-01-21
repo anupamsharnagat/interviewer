@@ -1,0 +1,1 @@
+booting booted dpmi prodos boot livecd ms-dos beos dos netbsd aix multitasking pxe unix-like wordstar bootstrapping freebsd amigaos porting bootstrap floppy unix-like pre-installed os netware powerpc bootable irix knoppix freedos intel-based fat disk pae multiprocessing vse solaris nextstep mbr linux vms foxpro rom unix-based grub windows hx opensolaris multiuser mainframe unix

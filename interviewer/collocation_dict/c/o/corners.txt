@@ -1,0 +1,1 @@
+corners corner edges sides vertices edge angles triangles quadrant triangle diagonals floors walls curves rows quadrants roof rectangle arches towers vertex rim aisles wall tip columns angle side parallelogram faces floor diagonally end squares windows octahedron surfaces lane bends courtyard facade shapes shape underside ends grid roofs storey quadrilateral rectangular tiers
